@@ -2,7 +2,7 @@
 
 Artificial Intelligence (AI) refers to the capability of machines and computer systems to perform tasks that typically require human intelligence. These tasks include learning from experience, understanding natural language, recognizing patterns, solving problems, and making decisions.
 
-*~~TYPES OF AI Based on Capabilities~~* 
+**TYPES OF AI Based on Capabilities**
 
 1. Narrow AI (Weak AI)
 Designed to perform specific tasks, such as voice assistants like Siri or Alexa, facial recognition software, and recommendation engines. These systems operate within a limited context and do not possess general intelligence.
@@ -17,7 +17,7 @@ A hypothetical AI that surpasses human intelligence in all aspects, including cr
 
 Machine Learning (ML) is a branch of artificial intelligence (AI) or a way to achieve AI that focuses on developing algorithms and statistical models enabling computers to perform tasks without explicit instructions. 
 
-**> > TYPES OF ML ---**
+**TYPES OF ML ---**
 
 1. Supervised Learning
 Definition: Models are trained on labeled datasets, learning to predict outcomes based on input-output pairs.
